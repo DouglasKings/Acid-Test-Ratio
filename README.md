@@ -1,2 +1,3 @@
 # Acid Test Ratio
- Acid Test Ratio by a company
+Create a C Program that will be used to calculate the Acid Test Ratio by a company:
+Acid Test Ratio = (Current Assets - Inventory)/Current Liabilities
